@@ -7,3 +7,14 @@ https://github.com/monzanifabio/cryptofont
 
 /*----------  Coin Gecko PHP libs API  ----------*/
 https://github.com/codenix-sv/coingecko-api
+
+
+/*----------  Coinpayment Library  ----------*/
+-- Coinpayments Codeigniter Library
+https://github.com/jlamim/codeigniter-coinpayments-api
+
+-- Add custom function ay4t
+
+
+-- PHP IPN LIBS --
+https://github.com/RonMelkhior/Coinpayments-IPN
